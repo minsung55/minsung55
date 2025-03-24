@@ -30,7 +30,7 @@
 ### 🖥️Project(프로젝트)
 > * __Kotlin 기반 1인 중고거래 앱 개발__, [고급모바일프로그래밍 Project](https://github.com/minsung55/kotlin-market) / 2023.10 ~ 2023.12
 > * __Chat GPT와 인공지능을 이용한 사용자 입력 기반 책 추천 서비스 개발__, [한성대학교 캡스톤디자인 Github](https://github.com/minsung55/Hansung_Capstone_73) / 2024.03 ~ 2024.06
-> * > * __Java 기반 Microsoft Inkball Game 개발__, [Inkball Github]([https://github.com/minsung55/Hansung_Capstone_73](https://github.com/minsung55/Inkball) / 2024.10 ~ 2024.12
+> * > * __Java 기반 Microsoft Inkball Game 개발__, [Inkball Github](https://github.com/minsung55/Inkball) / 2024.10 ~ 2024.12
 
 
 ----
